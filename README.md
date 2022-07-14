@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Beep Boop!</h1>
 
-<!--
-**mcengiz98/mcengiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">WWe need some "Lorem Ipsum" here!/p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+ <tr>
+    <td>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=mcengiz98&show_icons=true&theme=dark&hide=prs"/>
+    </td>
+    <td>
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcengiz98&theme=dark&langs_count=100&layout=compact"/>
+    </td>
+ </tr>
+</table>

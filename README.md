@@ -1,6 +1,6 @@
 <h1 align="center">Beep Boop!</h1>
 
-<p align="center">We need some "Lorem Ipsum" here!</p>
+<p align="center">I need some "Lorem Ipsum" here!</p>
 
 <table>
  <tr>
